@@ -14,3 +14,9 @@ yarn
 ```
 yarn start
 ```
+
+## Feedback visual:
+
+<img src="./1.png" alt="1.png">
+
+<img src="./2.png" alt="1.png">
